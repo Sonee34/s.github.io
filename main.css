@@ -1,0 +1,138 @@
+body{
+    font-family:  italic;
+    background-color: rgb(235, 232, 230);}
+    h1{color:rgb(235, 232, 230);
+    text-align: center;
+    background-color: rgb(143, 149, 233);
+text-decoration: violet;
+font :200;
+border-style: outset;
+border-radius: 0px;}
+*{
+    margin: 20px;
+    padding: auto;
+}
+#container{
+    width: 400px;
+    height: 50px;
+    background-color: rgb(141, 223, 141);
+    text-align: center;
+    text-decoration: black;
+}
+h2{
+    color:rgb(241, 243, 237);
+    text-align: left;
+    background-color: rgb(39, 155, 87);
+    font: 200px;
+    border-style:outset;
+    border-radius: 7px;
+}
+h3{
+    font-size: medium;
+    border-style: outset;
+    background-color: salmon;
+    text-decoration: black;
+
+}
+h4{
+    color:beige;
+    text-align: left;
+    background-color: rgb(124, 56, 90);
+    font:300px;
+    border-style:inset ;
+    border-radius: 0cm;
+}
+.mat{
+    color: darkgoldenrod;
+    text-decoration-color:rgb(223, 155, 20);
+    background-image: image("thr.jpg");
+
+
+}
+h6{
+
+    font: 150px;
+    color: black;
+    border: 300px;
+    background-color: lightblue;
+}
+#health{
+    text-decoration: white;
+    background-color: chocolate;
+    font-style: normal;
+    width: 400px;
+    height: 300;
+    box-sizing: unset;
+    
+}
+.fam{
+    font-size: medium;
+    color-adjust: ;
+    text-size-adjust: bold;
+    text-align-last: center;
+}
+
+
+.th{
+    font-size: medium;
+    font-family: monospace;
+}
+    p{
+        color:teal;
+        text-align: justify;
+        margin-left: 4px;
+    }
+    div.box{
+        text-decoration: black;
+        height: 300px;
+        width: 300px;
+background-color: burlywood;
+    }
+    h7{
+    
+        font: 300p;
+        color: black;
+        border: 300px;
+        background-color: lightblue;
+    }
+    
+
+
+    
+    div{
+        border-radius: 2cm;
+        border-bottom: 10px;
+        padding-bottom:  10px;
+        width: 260px;
+    }
+    p.imp{
+         color:rgb(190, 128, 11);
+        margin: 10px auto 10px auto; 
+        text-align: justify;
+    }
+    
+    p.imp2{
+        color:violet;
+        
+        border: 15px;
+
+    }
+    a:link{
+        color:rgb(191, 255, 71);
+        text-decoration: none;
+    }
+    a:visited{
+        color:rgb(29, 26, 24);}
+        a:hover{
+            color:rgb(209, 20, 200);
+            text-decoration: unset;
+        }
+        input{
+            color:rgb(190, 6, 61);
+
+        }
+        li{
+            list-style: linear-gradient();
+            list-style-type: square;
+            
+        }
